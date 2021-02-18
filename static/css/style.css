@@ -1,0 +1,23 @@
+h1 {
+   color: #d22e3a;
+}
+
+h2 {
+   color: #000000
+}
+h3 {
+    color: #00ffff
+}
+h4 {
+    color: #ffff00
+}
+h5 {
+    color: #00ff00
+}
+h6 {
+    color: #0000ff
+}
+
+.fs {
+   font-size:20px;
+}
